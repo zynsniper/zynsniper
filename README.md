@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hey there! I'm Chi
 
-<!--
-**zynsniper/zynsniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science student and developer who loves building cool projects and learning through hands-on coding (and games 🎮).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🎓 CS student passionate about software design and game mechanics  
+- 💻 Focused on clean logic, problem-solving, and UI/UX-friendly design  
+- 🎮 Gamer turned developer — sparked both my English and programming journey!  
+- 🧠 Always looking to level up through projects, challenges, and collaboration  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ [EU4: Roman Empire Quickstart Mod](https://github.com/zynsniper/RomanEmpireQuickstart)
+
+A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Empire — no decisions, no formables.  
+**Top 3 most popular mod during first week of release with over 1000 unique visitors.**
+
+<p>
+  <img src="https://github.com/zynsniper/RomanEmpireQuickstart/blob/Images/image_2025-05-02_074855766.png" alt="Map View" width="300"/>
+  <img src="https://github.com/zynsniper/RomanEmpireQuickstart/blob/Images/image_2025-05-02_075944624.png" alt="Start Screen" width="300"/>
+</p>
+
+---
+
+### 💰 [Family Financial Tracker – fft-s1t14](https://github.com/zynsniper/fft-s1t14)
+
+A group project for CS 2043 that helps categorize household transactions by family member and budget category.  
+Simple and effective interface built for clarity.
+
+<p>
+  <img src="https://github.com/zynsniper/FamilyFinancialTracker/blob/main/pictures/BuyerAssignment.png" alt="Buyer Assignment" width="300"/>
+  <img src="https://github.com/zynsniper/FamilyFinancialTracker/blob/main/pictures/CategoryAssignment.png" alt="Category Assignment" width="300"/>
+</p>
+
+---
+
+### 🎯 [TicTacToe JavaFX Game](https://github.com/zynsniper/TicTacToe)
+
+A 2-player dynamic TicTacToe game built with JavaFX.  
+Supports custom board sizes, intuitive GUI, and real-time win detection — a modern twist on a classic game.
+
+<p>
+  <img src="https://github.com/zynsniper/TicTacToe/blob/main/pictures/UI.png" alt="TicTacToe UI" width="300"/>
+  <img src="https://github.com/zynsniper/TicTacToe/blob/main/pictures/CustomBoardSize.png" alt="Custom Board Size" width="300"/>
+  <img src="https://github.com/zynsniper/TicTacToe/blob/main/pictures/WinScenario.png" alt="Win Scenario" width="300"/>
+</p>
