@@ -34,6 +34,11 @@ Welcome to my GitHub profile! I'm a Computer Science student and developer who l
 A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Empire — no decisions, no formables.  
 **Top 3 most popular mod during first week of release with over 1000 unique visitors.**
 
+<a 
+  href="https://steamcommunity.com/sharedfiles/filedetails/?id=3474338220" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam Icon" width="30"/> 
+  <span> 🔗Steam Workshop Page</span> 
+</a> 
+
 <p>
   <img src="https://github.com/zynsniper/RomanEmpireQuickstart/blob/Images/image_2025-05-02_074855766.png" alt="Map View" width="300"/>
   <img src="https://github.com/zynsniper/RomanEmpireQuickstart/blob/Images/image_2025-05-02_075944624.png" alt="Start Screen" width="300"/>
@@ -41,7 +46,7 @@ A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Em
 
 ---
 
-### 💰 [Family Financial Tracker – fft-s1t14](https://github.com/zynsniper/fft-s1t14)
+### 💰 [Family Financial Tracker – fft-s1t14](https://github.com/zynsniper/FamilyFinancialTracker)
 
 A University group project that helps categorize household transactions by family member and budget category.  
 Simple and effective interface built for clarity.
