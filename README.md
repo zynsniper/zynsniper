@@ -43,7 +43,7 @@ A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Em
 
 ### 💰 [Family Financial Tracker – fft-s1t14](https://github.com/zynsniper/fft-s1t14)
 
-A group project for CS 2043 that helps categorize household transactions by family member and budget category.  
+A University group project that helps categorize household transactions by family member and budget category.  
 Simple and effective interface built for clarity.
 
 <p>
