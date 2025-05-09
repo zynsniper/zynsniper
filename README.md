@@ -50,16 +50,3 @@ Simple and effective interface built for clarity.
   <img src="https://github.com/zynsniper/FamilyFinancialTracker/blob/main/pictures/BuyerAssignment.png" alt="Buyer Assignment" width="300"/>
   <img src="https://github.com/zynsniper/FamilyFinancialTracker/blob/main/pictures/CategoryAssignment.png" alt="Category Assignment" width="300"/>
 </p>
-
----
-
-### 🎯 [TicTacToe JavaFX Game](https://github.com/zynsniper/TicTacToe)
-
-A 2-player dynamic TicTacToe game built with JavaFX.  
-Supports custom board sizes, intuitive GUI, and real-time win detection — a modern twist on a classic game.
-
-<p>
-  <img src="https://github.com/zynsniper/TicTacToe/blob/main/pictures/UI.png" alt="TicTacToe UI" width="300"/>
-  <img src="https://github.com/zynsniper/TicTacToe/blob/main/pictures/CustomBoardSize.png" alt="Custom Board Size" width="300"/>
-  <img src="https://github.com/zynsniper/TicTacToe/blob/main/pictures/WinScenario.png" alt="Win Scenario" width="300"/>
-</p>
