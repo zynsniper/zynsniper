@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a Computer Science student and developer who l
 ### 🏛️ [EU4: Roman Empire Quickstart Mod](https://github.com/zynsniper/RomanEmpireQuickstart)
 
 A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Empire — no decisions, no formables.  
-**Top 3 most popular mod during first week of release with over 1000 unique visitors.**
+**Top 3 most popular mod during first week of release with over 2000 unique visitors.**
 
 <a 
   href="https://steamcommunity.com/sharedfiles/filedetails/?id=3474338220" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam Icon" width="30"/> 
