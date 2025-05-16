@@ -55,3 +55,15 @@ Simple and effective interface built for clarity.
   <img src="https://github.com/zynsniper/FamilyFinancialTracker/blob/main/pictures/BuyerAssignment.png" alt="Buyer Assignment" width="300"/>
   <img src="https://github.com/zynsniper/FamilyFinancialTracker/blob/main/pictures/CategoryAssignment.png" alt="Category Assignment" width="300"/>
 </p>
+
+---
+
+### 🎮 [JavaScript Tetris](https://github.com/zynsniper/tetris)
+
+A browser-based Tetris clone built using HTML5, CSS and JavaScript.
+Implements original mechanics like piece rotation, line clearing, scoring, and game-completion scenario — all controlled with WASD.
+
+<p> 
+  <img src="https://github.com/zynsniper/Tetris/blob/main/Images/Tet2.png" alt="Game Start" height="300"/> 
+  <img src="https://github.com/zynsniper/Tetris/blob/main/Images/Tet1.png" alt="Combo Scoring" height="300"/> 
+</p>
