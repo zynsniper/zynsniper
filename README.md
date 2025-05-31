@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a Computer Science student and developer who l
 
 ---
 
-## 💡 About Me
+## About Me
 
-- 🎓 CS student passionate about software design and game mechanics  
-- 💻 Focused on clean logic, problem-solving, and UI/UX-friendly design  
-- 🎮 Gamer turned developer — sparked both my English and programming journey!  
-- 🧠 Always looking to level up through projects, challenges, and collaboration  
+- CS student passionate about software design and game mechanics  
+- Focused on clean logic, problem-solving, and UI/UX-friendly design  
+- Gamer turned developer — sparked both my English and programming journey!  
+- Always looking to level up through projects, challenges, and collaboration  
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Computer Science student and developer who l
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
 ### 🏛️ [EU4: Roman Empire Quickstart Mod](https://github.com/zynsniper/RomanEmpireQuickstart)
 
