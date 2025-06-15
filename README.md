@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a Computer Science student and developer who l
 
 # Featured Projects
 
-### 🏛️ [EU4: Roman Empire Quickstart Mod](https://github.com/zynsniper/RomanEmpireQuickstart)
+### [EU4: Roman Empire Quickstart Mod](https://github.com/zynsniper/RomanEmpireQuickstart)
 
 A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Empire — no decisions, no formables.  
 **Top 3 most popular mod during first week of release with over 2000 unique visitors.**
@@ -46,7 +46,7 @@ A Europa Universalis IV mod that lets you start the game in 1444 as the Roman Em
 
 ---
 
-### 💰 [Family Financial Tracker – fft-s1t14](https://github.com/zynsniper/FamilyFinancialTracker)
+### [Family Financial Tracker – fft-s1t14](https://github.com/zynsniper/FamilyFinancialTracker)
 
 A University group project that helps categorize household transactions by family member and budget category.  
 Simple and effective interface built for clarity.
@@ -57,3 +57,14 @@ Simple and effective interface built for clarity.
 </p>
 
 ---
+
+### [Portfolio Calculator]([https://github.com/zynsniper/RomanEmpireQuickstart](https://github.com/zynsniper/Portfolio-Tracker))
+A web application that helps users track investments, calculate portfolio gains/losses, and visualize performance through charts.
+Built with Flask, PostgreSQL, and Chart.js during my full-stack development journey.
+Includes login/logout, data input, live charting, and a responsive dark UI.
+
+<p> 
+  <img src="https://github.com/zynsniper/Portfolio-Tracker/blob/main/results/images/login_page.png" alt="Login Page" width="250"/> 
+  <img src="https://github.com/zynsniper/Portfolio-Tracker/blob/main/results/images/dashboard.png" alt="Dashboard" width="250"/> 
+  <img src="https://github.com/zynsniper/Portfolio-Tracker/blob/main/results/images/chart.png" alt="Stock Search" width="250"/> 
+</p>
