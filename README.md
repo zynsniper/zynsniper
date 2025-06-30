@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Chi
+# Hey there! I'm Chi
 
 Welcome to my GitHub profile! I'm a Computer Science student and developer who loves building cool projects and learning through hands-on coding (and games 🎮).
 
